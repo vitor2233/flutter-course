@@ -1,4 +1,6 @@
-# flutter-course
+# Curso de flutter 
+
+## Conteúdo dos apps:
 
 ### App 1 - Contador de Pessoas
 

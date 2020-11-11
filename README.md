@@ -2,232 +2,232 @@
 
 ### App 1 - Contador de Pessoas
 
-Stateless vs Stateful
+- Stateless vs Stateful
 
-Text
+- Text
 
-Column
+- Column
 
-Row
+- Row
 
-Image
+- Image
 
-Stack
+- Stack
 
-Padding
+- Padding
 
-TextStyle
+- TextStyle
 
-FontStyle
+- FontStyle
 
-FontWeight
+- FontWeight
 
-FlatButton
+- FlatButton
 
 ### App 2 - Calculadora de IMC
 
-Scaffold
+- Scaffold
 
-AppBar
+- AppBar
 
-SingleChildScrollView
+- SingleChildScrollView
 
-RaisedButton
+- RaisedButton
 
-Forms
+- Forms
 
-GlobalKey
+- GlobalKey
 
-TextField
+- TextField
 
-TextFormField
+- TextFormField
 
 ### App 3 - Conversor de Moedas
 
-JSON
+- JSON
 
-API
+- API
 
-Future
+- Future
 
-FutureBuilder
+- FutureBuilder
 
 ### App 4 - Lista de Tarefas
 
-ListView
+- ListView
 
-SnackBar
+- SnackBar
 
-Dismissible
+- Dismissible
 
-ListTile
+- ListTile
 
-CircleAvatar
+- CircleAvatar
 
-CheckBoxListTile
+- CheckBoxListTile
 
-RefreshIndicator
+- RefreshIndicator
 
-Sort
+- Sort
 
-Armazenamento JSON
+- Armazenamento JSON
 
 ### App 5 - Buscador de GIFs
 
-Navigator
+- Navigator
 
-GridView
+- GridView
 
-Image Network
+- Image Network
 
-GestureDetector
+- GestureDetector
 
-ProgressIndicator
+- ProgressIndicator
 
-Share
+- Share
 
-FadeInImage
+- FadeInImage
 
-Plugins
+- Plugins
 
 ### App 6 - Agenda de Contatos
 
-Banco SQFlite
+- Banco SQFlite
 
-Singleton
+- Singleton
 
-Card
+- Card
 
-CircleImage
+- CircleImage
 
-WillPopScope
+- WillPopScope
 
-BottomSheet
+- BottomSheet
 
-AlertDialog
+- AlertDialog
 
-PopupMenuButton
+- PopupMenuButton
 
-ImagePicker
+- ImagePicker
 
-Url Launcher
+- Url Launcher
 
-Focus
+- Focus
 
 ### App 7 - Chat Online - Firebase
 
-Google Sign In
+- Google Sign In
 
-Firebase Auth
+- Firebase Auth
 
-Cloud Firestore
+- Cloud Firestore
 
-Cloud Storage
+- Cloud Storage
 
-StreamBuilder
+- StreamBuilder
 
 ### App 8 - Loja Virtual (Em breve!)
 
-ScopedModel
+- ScopedModel
 
-Login Email e Senha
+- Login Email e Senha
 
-Staggered Grid
+- Staggered Grid
 
-Navigation Drawer
+- Navigation Drawer
 
-Tab View
+- Tab View
 
-Page View
+- Page View
 
-Image Carousel
+- Image Carousel
 
-Expansion Tile
+- Expansion Tile
 
-Estruturação de Dados
+- Estruturação de Dados
 
-Abertura no Google Maps
+- Abertura no Google Maps
 
-Anotação @required
+- Anotação @required
 
 ### App 9 - Flare
 
-Criação de Animações com o Flare
+- Criação de Animações com o Flare
 
-Importação das Animações no App
+- Importação das Animações no App
 
-SplashScreen
+- SplashScreen
 
 ### App 10 - Favoritos do YouTube (BLoC Pattern)
 
-BLoC Pattern
+- BLoC Pattern
 
-Streams
+- Streams
 
-Lista Infinita
+- Lista Infinita
 
-API e Plugin do YouTube
+- API e Plugin do YouTube
 
-SearchDelegate
+- SearchDelegate
 
-Sugestões na Pesquisa
+- Sugestões na Pesquisa
 
 ### App 11 - Animações Complexas
 
-Animation
+- Animation
 
-AnimationController
+- AnimationController
 
-AnimatedBuilder
+- AnimatedBuilder
 
-CurvedAnimation
+- CurvedAnimation
 
-Curves
+- Curves
 
-Interval
+- Interval
 
-Tween
+- Tween
 
-ColorTween
+- ColorTween
 
-EdgeInsetsTween
+- EdgeInsetsTween
 
-IgnorePointer
+- IgnorePointer
 
 ### App 12 - Gerenciamento da Loja Virtual
 
-BottomNavigationBar
+- BottomNavigationBar
 
-AutomaticKeepAlive
+- AutomaticKeepAlive
 
-FormField
+- FormField
 
-StreamTransform
+- StreamTransform
 
-CombineLatest
+- CombineLatest
 
-DocumentChanges
+- DocumentChanges
 
-SpeedDial
+- SpeedDial
 
-ImagePicker (Câmera e Galeria)
+- ImagePicker (Câmera e Galeria)
 
 ### App 13 - Integrando com o código Android
 
-PlatformChannel
+- PlatformChannel
 
 ### App 14 - XLO Clone
 
-Parse Server
+- Parse Server
 
-Provider
+- Provider
 
-BLoC Avançado
+- BLoC Avançado
 
 ### App 15 - Gerência de Estado com MobX
 
-MobX
+- MobX
 
-Build Runner
+- Build Runner
 
-ObservableList
+- ObservableList

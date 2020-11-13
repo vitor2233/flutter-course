@@ -8,23 +8,23 @@
 
 - [Text](https://flutter.dev/docs/development/ui/widgets/text)
 
-- Column
+- [Column](https://api.flutter.dev/flutter/widgets/Column-class.html)
 
-- Row
+- [Row](https://api.flutter.dev/flutter/widgets/Row-class.html)
 
-- Image
+- [Image](https://api.flutter.dev/flutter/widgets/Image-class.html)
 
-- Stack
+- [Stack](https://api.flutter.dev/flutter/widgets/Stack-class.html)
 
-- Padding
+- [Padding](https://api.flutter.dev/flutter/widgets/Padding-class.html)
 
-- TextStyle
+- [TextStyle](https://api.flutter.dev/flutter/painting/TextStyle-class.html)
 
-- FontStyle
+- [FontStyle](https://api.flutter.dev/flutter/painting/TextStyle-class.html)
 
-- FontWeight
+- [FontWeight](https://api.flutter.dev/flutter/painting/TextStyle-class.html)
 
-- FlatButton
+- [FlatButton](https://api.flutter.dev/flutter/material/FlatButton-class.html)
 
 ### App 2 - Calculadora de IMC
 

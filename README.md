@@ -6,7 +6,7 @@
 
 - Stateless vs Stateful
 
-- Text
+- [Text](https://flutter.dev/docs/development/ui/widgets/text)
 
 - Column
 

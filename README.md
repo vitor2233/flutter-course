@@ -28,31 +28,31 @@
 
 ### App 2 - Calculadora de IMC
 
-- Scaffold
+- [Scaffold](https://api.flutter.dev/flutter/material/Scaffold-class.html)
 
-- AppBar
+- [AppBar](https://api.flutter.dev/flutter/material/AppBar-class.html)
 
-- SingleChildScrollView
+- [SingleChildScrollView](https://api.flutter.dev/flutter/widgets/SingleChildScrollView-class.html)
 
-- RaisedButton
+- [RaisedButton](https://api.flutter.dev/flutter/material/RaisedButton-class.html)
 
-- Forms
+- [Forms](https://api.flutter.dev/flutter/widgets/Form-class.html)
 
-- GlobalKey
+- [GlobalKey](https://api.flutter.dev/flutter/widgets/GlobalKey-class.html)
 
-- TextField
+- [TextField](https://api.flutter.dev/flutter/material/TextField-class.html)
 
-- TextFormField
+- [TextFormField](https://api.flutter.dev/flutter/material/TextFormField-class.html)
 
 ### App 3 - Conversor de Moedas
 
-- JSON
+- [JSON]
 
-- API
+- [API]
 
-- Future
+- [Future](https://api.flutter.dev/flutter/dart-async/Future-class.html)
 
-- FutureBuilder
+- [FutureBuilder](https://api.flutter.dev/flutter/widgets/FutureBuilder-class.html)
 
 ### App 4 - Lista de Tarefas
 

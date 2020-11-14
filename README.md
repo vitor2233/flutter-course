@@ -46,9 +46,9 @@
 
 ### App 3 - Conversor de Moedas
 
-- [JSON]
+- JSON
 
-- [API]
+- API
 
 - [Future](https://api.flutter.dev/flutter/dart-async/Future-class.html)
 
@@ -56,69 +56,69 @@
 
 ### App 4 - Lista de Tarefas
 
-- ListView
+- [ListView](https://api.flutter.dev/flutter/widgets/ListView-class.html)
 
-- SnackBar
+- [SnackBar](https://flutter.dev/docs/cookbook/design/snackbars)
 
-- Dismissible
+- [Dismissible](https://api.flutter.dev/flutter/widgets/Dismissible-class.html)
 
-- ListTile
+- [ListTile](https://api.flutter.dev/flutter/material/ListTile-class.html)
 
-- CircleAvatar
+- [CircleAvatar](https://api.flutter.dev/flutter/material/CircleAvatar-class.html)
 
-- CheckBoxListTile
+- [CheckBoxListTile](https://api.flutter.dev/flutter/material/CheckboxListTile-class.html)
 
-- RefreshIndicator
+- [RefreshIndicator](https://api.flutter.dev/flutter/material/RefreshIndicator-class.html)
 
-- Sort
+- [Sort](https://api.flutter.dev/flutter/dart-core/List/sort.html)
 
 - Armazenamento JSON
 
 ### App 5 - Buscador de GIFs
 
-- Navigator
+- [Navigator](https://api.flutter.dev/flutter/widgets/Navigator-class.html)
 
-- GridView
+- [GridView](https://api.flutter.dev/flutter/widgets/GridView-class.html)
 
-- Image Network
+- [Image Network](https://flutter.dev/docs/cookbook/images/network-image)
 
-- GestureDetector
+- [GestureDetector](https://api.flutter.dev/flutter/widgets/GestureDetector-class.html)
 
-- ProgressIndicator
+- [ProgressIndicator](https://api.flutter.dev/flutter/material/CircularProgressIndicator-class.html)
 
-- Share
+- [Share](https://pub.dev/packages/share)
 
-- FadeInImage
+- [FadeInImage](https://flutter.dev/docs/cookbook/images/fading-in-images)
 
 - Plugins
 
 ### App 6 - Agenda de Contatos
 
-- Banco SQFlite
+- [Banco SQFlite](https://pub.dev/packages/sqflite)
 
 - Singleton
 
-- Card
+- [Card](https://api.flutter.dev/flutter/material/Card-class.html)
 
-- CircleImage
+- [CircleImage](https://medium.com/@boldijar.paul/circle-image-view-in-flutter-965963c46cf5)
 
-- WillPopScope
+- [WillPopScope](https://api.flutter.dev/flutter/widgets/WillPopScope-class.html)
 
-- BottomSheet
+- [BottomSheet](https://api.flutter.dev/flutter/material/BottomSheet-class.html)
 
-- AlertDialog
+- [AlertDialog](https://api.flutter.dev/flutter/material/AlertDialog-class.html)
 
-- PopupMenuButton
+- [PopupMenuButton](https://api.flutter.dev/flutter/material/PopupMenuButton-class.html)
 
-- ImagePicker
+- [ImagePicker](https://pub.dev/packages/image_picker)
 
-- Url Launcher
+- [Url Launcher](https://pub.dev/packages/url_launcher)
 
-- Focus
+- [Focus](https://flutter.dev/docs/cookbook/forms/focus)
 
 ### App 7 - Chat Online - Firebase
 
-- Google Sign In
+- [Google Sign In](https://pub.dev/packages/google_sign_in)
 
 - Firebase Auth
 
@@ -138,19 +138,19 @@
 
 - Navigation Drawer
 
-- Tab View
+- [Tab View]()
 
-- Page View
+- [Page View]()
 
-- Image Carousel
+- [Image Carousel]()
 
-- Expansion Tile
+- [Expansion Tile]()
 
-- Estruturação de Dados
+- [Estruturação de Dados]()
 
-- Abertura no Google Maps
+- [Abertura no Google Maps]()
 
-- Anotação @required
+- [Anotação @required]()
 
 ### App 9 - Flare
 
@@ -158,78 +158,78 @@
 
 - Importação das Animações no App
 
-- SplashScreen
+- [SplashScreen]()
 
 ### App 10 - Favoritos do YouTube (BLoC Pattern)
 
-- BLoC Pattern
+- [BLoC Pattern]()
 
-- Streams
+- [Streams]()
 
-- Lista Infinita
+- [Lista Infinita]()
 
-- API e Plugin do YouTube
+- [API e Plugin do YouTube]()
 
-- SearchDelegate
+- [SearchDelegate]()
 
-- Sugestões na Pesquisa
+- [Sugestões na Pesquisa]()
 
 ### App 11 - Animações Complexas
 
-- Animation
+- [Animation]()
 
-- AnimationController
+- [AnimationController]()
 
-- AnimatedBuilder
+- [AnimatedBuilder]()
 
-- CurvedAnimation
+- [CurvedAnimation]()
 
-- Curves
+- [Curves]()
 
-- Interval
+- [Interval]()
 
-- Tween
+- [Tween]()
 
-- ColorTween
+- [ColorTween]()
 
-- EdgeInsetsTween
+- [EdgeInsetsTween]()
 
-- IgnorePointer
+- [IgnorePointer]()
 
 ### App 12 - Gerenciamento da Loja Virtual
 
-- BottomNavigationBar
+- [BottomNavigationBar]()
 
-- AutomaticKeepAlive
+- [AutomaticKeepAlive]()
 
-- FormField
+- [FormField]()
 
-- StreamTransform
+- [StreamTransform]()
 
-- CombineLatest
+- [CombineLatest]()
 
-- DocumentChanges
+- [DocumentChanges]()
 
-- SpeedDial
+- [SpeedDial]()
 
-- ImagePicker (Câmera e Galeria)
+- [ImagePicker (Câmera e Galeria)]()
 
 ### App 13 - Integrando com o código Android
 
-- PlatformChannel
+- [PlatformChannel]()
 
 ### App 14 - XLO Clone
 
-- Parse Server
+- [Parse Server]()
 
-- Provider
+- [Provider]()
 
-- BLoC Avançado
+- [BLoC Avançado]()
 
 ### App 15 - Gerência de Estado com MobX
 
-- MobX
+- [MobX]()
 
-- Build Runner
+- [Build Runner]()
 
-- ObservableList
+- [ObservableList]()
